@@ -1,4 +1,4 @@
-baseURL: "https://blog.tubeup.kr/"
+baseURL: "http://blog.tubeup.kr/"
 languageCode: "ko-kr"
 defaultContentLanguage: "ko"
 title: "TubeUp 블로그"
