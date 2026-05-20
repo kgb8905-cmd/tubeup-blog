@@ -3,6 +3,7 @@ languageCode: "ko-kr"
 defaultContentLanguage: "ko"
 title: "TubeUp 블로그"
 theme: "PaperMod"
+publishDir: "docs"
 
 enableRobotsTXT: true
 buildDrafts: false

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>튜브업 on TubeUp 블로그</title>
+    <link>https://blog.tubeup.kr/tags/%ED%8A%9C%EB%B8%8C%EC%97%85/</link>
+    <description>Recent content in 튜브업 on TubeUp 블로그</description>
+    <generator>Hugo</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Wed, 20 May 2026 10:00:00 +0900</lastBuildDate>
+    <atom:link href="https://blog.tubeup.kr/tags/%ED%8A%9C%EB%B8%8C%EC%97%85/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TubeUp 블로그를 시작합니다</title>
+      <link>https://blog.tubeup.kr/posts/welcome/</link>
+      <pubDate>Wed, 20 May 2026 10:00:00 +0900</pubDate>
+      <guid>https://blog.tubeup.kr/posts/welcome/</guid>
+      <description>유튜브 자동화 SaaS TubeUp의 공식 블로그를 오픈했습니다. 떡상 영상 발굴, AI 대본, TTS, 자막, 렌더링까지 실전 노하우를 공유합니다.</description>
+    </item>
+  </channel>
+</rss>

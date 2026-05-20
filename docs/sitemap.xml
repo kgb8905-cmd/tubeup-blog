@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://blog.tubeup.kr/categories/</loc>
+    <lastmod>2026-05-20T10:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://blog.tubeup.kr/posts/</loc>
+    <lastmod>2026-05-20T10:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://blog.tubeup.kr/tags/</loc>
+    <lastmod>2026-05-20T10:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://blog.tubeup.kr/</loc>
+    <lastmod>2026-05-20T10:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://blog.tubeup.kr/posts/welcome/</loc>
+    <lastmod>2026-05-20T10:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://blog.tubeup.kr/tags/%EA%B3%B5%EC%A7%80/</loc>
+    <lastmod>2026-05-20T10:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://blog.tubeup.kr/categories/%EC%86%8C%EC%8B%9D/</loc>
+    <lastmod>2026-05-20T10:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://blog.tubeup.kr/tags/%ED%8A%9C%EB%B8%8C%EC%97%85/</loc>
+    <lastmod>2026-05-20T10:00:00+09:00</lastmod>
+  </url>
+</urlset>
