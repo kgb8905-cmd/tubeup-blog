@@ -38,7 +38,7 @@ params:
   sidebar:
     emoji: 🎬
     subtitle: "유튜브 크리에이터를 위한 AI 자동화 노하우. 떡상 영상 발굴부터 AI 대본·TTS·자막·렌더링까지."
-    avatar: "img/avatar.png"
+    avatar: "img/tubeup-logo.png"
 
   article:
     math: false
