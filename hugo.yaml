@@ -2,79 +2,122 @@ baseURL: "http://blog.tubeup.kr/"
 languageCode: "ko-kr"
 defaultContentLanguage: "ko"
 title: "TubeUp 블로그"
-theme: "PaperMod"
+theme: "stack"
 publishDir: "docs"
 
 enableRobotsTXT: true
-buildDrafts: false
-buildFuture: false
-buildExpired: false
 
-minify:
-  disableXML: true
-  minifyOutput: true
+DefaultContentLanguage: ko
+hasCJKLanguage: true
+
+services:
+  disqus:
+    shortname: ""
+  googleAnalytics:
+    id: ""
+
+permalinks:
+  post: /posts/:slug/
+  page: /:slug/
 
 params:
-  env: production
-  title: "TubeUp 블로그"
-  description: "유튜브 자동화·AI 영상 제작·크리에이터 노하우. TubeUp이 알려드립니다."
-  keywords: ["유튜브", "유튜브자동화", "AI영상", "쇼츠", "크리에이터", "TubeUp", "튜브업"]
-  author: "TubeUp"
-  defaultTheme: auto
-  ShowReadingTime: true
-  ShowShareButtons: true
-  ShowPostNavLinks: true
-  ShowBreadCrumbs: true
-  ShowCodeCopyButtons: true
-  ShowWordCount: true
-  ShowRssButtonInSectionTermList: true
-  UseHugoToc: true
+  mainSections:
+    - posts
+  featuredImageField: image
+  rssFullContent: true
+  favicon: ""
 
-  assets:
-    disableFingerprinting: true
+  footer:
+    since: 2026
+    customText: "유튜브 자동화·AI 영상 노하우"
 
-  homeInfoParams:
-    Title: "유튜브 크리에이터를 위한 AI 자동화"
-    Content: >
-      떡상 영상 발굴부터 AI 대본·TTS·자막·렌더링까지.
-      TubeUp이 알려주는 실전 노하우.
+  dateFormat:
+    published: 2006-01-02
+    lastUpdated: 2006-01-02 15:04
 
-  socialIcons:
-    - name: youtube
-      url: "https://www.youtube.com/"
-    - name: rss
-      url: "/index.xml"
+  sidebar:
+    emoji: 🎬
+    subtitle: "유튜브 크리에이터를 위한 AI 자동화 노하우. 떡상 영상 발굴부터 AI 대본·TTS·자막·렌더링까지."
+    avatar: "img/avatar.png"
 
-  fuseOpts:
-    isCaseSensitive: false
-    shouldSort: true
-    location: 0
-    distance: 1000
-    threshold: 0.4
-    minMatchCharLength: 0
-    limit: 10
-    keys: ["title", "permalink", "summary", "content"]
+  article:
+    math: false
+    toc: true
+    readingTime: true
+    license:
+      enabled: false
+      default: "Licensed under CC BY-NC-SA 4.0"
+
+  comments:
+    enabled: false
+
+  widgets:
+    homepage:
+      - type: search
+      - type: archives
+        params:
+          limit: 5
+      - type: categories
+        params:
+          limit: 10
+      - type: tag-cloud
+        params:
+          limit: 10
+    page:
+      - type: toc
+
+  opengraph:
+    twitter:
+      site: ""
+      card: summary_large_image
+
+  defaultImage:
+    opengraph:
+      enabled: false
+      local: false
+      src: ""
+
+  colorScheme:
+    toggle: true
+    default: auto
+
+  imageProcessing:
+    cover:
+      enabled: true
+    content:
+      enabled: true
 
 menu:
-  main:
-    - identifier: posts
-      name: 글
-      url: /posts/
-      weight: 10
-    - identifier: tags
-      name: 태그
-      url: /tags/
-      weight: 20
+  main: []
+  social:
     - identifier: tubeup
-      name: 튜브업 가기
+      name: TubeUp 사이트
       url: https://tubeup.kr/
-      weight: 30
+      params:
+        icon: link
+    - identifier: rss
+      name: RSS
+      url: /index.xml
+      params:
+        icon: rss
 
-outputs:
-  home:
-    - HTML
-    - RSS
-    - JSON
+related:
+  includeNewer: true
+  threshold: 60
+  toLower: false
+  indices:
+    - name: tags
+      weight: 100
+    - name: categories
+      weight: 200
 
-pagination:
-  pagerSize: 10
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    noClasses: false
+  tableOfContents:
+    endLevel: 4
+    ordered: true
+    startLevel: 2
