@@ -69,6 +69,14 @@ def run(cmd, **kw):
 
 def build_site():
     run([str(HUGO_EXE), "--minify", "--gc"])
+    # 네이버 호환: sitemap.xml/ 와 index.xml/ 도 대응
+    import shutil
+    docs = BLOG_DIR / "docs"
+    (docs / "CNAME").write_text("blog.tubeup.kr\n", encoding="utf-8")
+    (docs / "sitemap").mkdir(exist_ok=True)
+    shutil.copyfile(docs / "sitemap.xml", docs / "sitemap" / "index.xml")
+    (docs / "rss").mkdir(exist_ok=True)
+    shutil.copyfile(docs / "index.xml", docs / "rss" / "index.xml")
 
 
 def git_publish(message):
