@@ -1,0 +1,76 @@
+baseURL: "https://blog.tubeup.kr/"
+languageCode: "ko-kr"
+defaultContentLanguage: "ko"
+title: "TubeUp 블로그"
+theme: "PaperMod"
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production
+  title: "TubeUp 블로그"
+  description: "유튜브 자동화·AI 영상 제작·크리에이터 노하우. TubeUp이 알려드립니다."
+  keywords: ["유튜브", "유튜브자동화", "AI영상", "쇼츠", "크리에이터", "TubeUp", "튜브업"]
+  author: "TubeUp"
+  defaultTheme: auto
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+
+  homeInfoParams:
+    Title: "유튜브 크리에이터를 위한 AI 자동화"
+    Content: >
+      떡상 영상 발굴부터 AI 대본·TTS·자막·렌더링까지.
+      TubeUp이 알려주는 실전 노하우.
+
+  socialIcons:
+    - name: youtube
+      url: "https://www.youtube.com/"
+    - name: rss
+      url: "/index.xml"
+
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    limit: 10
+    keys: ["title", "permalink", "summary", "content"]
+
+menu:
+  main:
+    - identifier: posts
+      name: 글
+      url: /posts/
+      weight: 10
+    - identifier: tags
+      name: 태그
+      url: /tags/
+      weight: 20
+    - identifier: tubeup
+      name: 튜브업 가기
+      url: https://tubeup.kr/
+      weight: 30
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+pagination:
+  pagerSize: 10
