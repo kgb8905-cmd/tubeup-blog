@@ -30,6 +30,9 @@ params:
   ShowRssButtonInSectionTermList: true
   UseHugoToc: true
 
+  assets:
+    disableFingerprinting: true
+
   homeInfoParams:
     Title: "유튜브 크리에이터를 위한 AI 자동화"
     Content: >
