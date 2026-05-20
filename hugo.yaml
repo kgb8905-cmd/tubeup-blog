@@ -25,7 +25,7 @@ params:
     - posts
   featuredImageField: image
   rssFullContent: true
-  favicon: ""
+  favicon: "img/favicon.png"
 
   footer:
     since: 2026
@@ -73,9 +73,9 @@ params:
 
   defaultImage:
     opengraph:
-      enabled: false
-      local: false
-      src: ""
+      enabled: true
+      local: true
+      src: "img/og-image.png"
 
   colorScheme:
     toggle: true
