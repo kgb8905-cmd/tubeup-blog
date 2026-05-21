@@ -1,18 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>소식 on TubeUp 블로그</title><link>http://blog.tubeup.kr/categories/%EC%86%8C%EC%8B%9D/</link><description>Recent content in 소식 on TubeUp 블로그</description><generator>Hugo -- gohugo.io</generator><language>ko-kr</language><lastBuildDate>Wed, 20 May 2026 10:00:00 +0900</lastBuildDate><atom:link href="http://blog.tubeup.kr/categories/%EC%86%8C%EC%8B%9D/index.xml" rel="self" type="application/rss+xml"/><item><title>TubeUp 블로그를 시작합니다</title><link>http://blog.tubeup.kr/posts/welcome/</link><pubDate>Wed, 20 May 2026 10:00:00 +0900</pubDate><guid>http://blog.tubeup.kr/posts/welcome/</guid><description>&lt;p&gt;안녕하세요. &lt;strong&gt;TubeUp(튜브업)&lt;/strong&gt; 공식 블로그입니다.&lt;/p&gt;
-&lt;h2 id="무엇을-다룰까요"&gt;무엇을 다룰까요
-&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;떡상 영상 발굴 노하우&lt;/li&gt;
-&lt;li&gt;AI 대본 작성 팁&lt;/li&gt;
-&lt;li&gt;TTS 나레이션 활용법&lt;/li&gt;
-&lt;li&gt;자막 싱크 최적화&lt;/li&gt;
-&lt;li&gt;영상 자동 렌더링&lt;/li&gt;
-&lt;li&gt;글로벌 트렌드 키워드 분석&lt;/li&gt;
-&lt;li&gt;롱폼 → 숏폼 변환 전략&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id="누구를-위한-블로그인가요"&gt;누구를 위한 블로그인가요
-&lt;/h2&gt;&lt;p&gt;유튜브를 시작하려는 초보 크리에이터부터, 이미 채널을 운영 중이지만 &lt;strong&gt;시간 부족&lt;/strong&gt;으로 고민하는 분들까지.&lt;/p&gt;
-&lt;p&gt;TubeUp은 &amp;ldquo;혼자 영상 만들기&amp;quot;의 모든 단계를 AI로 자동화합니다.
-이 블로그는 그 노하우를 무료로 풀어내는 공간입니다.&lt;/p&gt;
-&lt;h2 id="tubeup-바로가기"&gt;TubeUp 바로가기
-&lt;/h2&gt;&lt;p&gt;👉 &lt;a class="link" href="https://tubeup.kr/" target="_blank" rel="noopener"
- &gt;tubeup.kr&lt;/a&gt; 에서 직접 체험해보세요.&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>소식 on TubeUp 블로그</title>
+        <link>http://blog.tubeup.kr/categories/%EC%86%8C%EC%8B%9D/</link>
+        <description>Recent content in 소식 on TubeUp 블로그</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>ko-kr</language>
+        <lastBuildDate>Wed, 20 May 2026 10:00:00 +0900</lastBuildDate><atom:link href="http://blog.tubeup.kr/categories/%EC%86%8C%EC%8B%9D/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>TubeUp 블로그를 시작합니다</title>
+            <link>http://blog.tubeup.kr/posts/welcome/</link>
+            <pubDate>Wed, 20 May 2026 10:00:00 +0900</pubDate>
+            <guid>http://blog.tubeup.kr/posts/welcome/</guid>
+            <description>&lt;p&gt;안녕하세요. &lt;strong&gt;TubeUp(튜브업)&lt;/strong&gt; 공식 블로그입니다.&lt;/p&gt;&#xA;&lt;h2 id=&#34;무엇을-다룰까요&#34;&gt;무엇을 다룰까요&#xD;&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;떡상 영상 발굴 노하우&lt;/li&gt;&#xA;&lt;li&gt;AI 대본 작성 팁&lt;/li&gt;&#xA;&lt;li&gt;TTS 나레이션 활용법&lt;/li&gt;&#xA;&lt;li&gt;자막 싱크 최적화&lt;/li&gt;&#xA;&lt;li&gt;영상 자동 렌더링&lt;/li&gt;&#xA;&lt;li&gt;글로벌 트렌드 키워드 분석&lt;/li&gt;&#xA;&lt;li&gt;롱폼 → 숏폼 변환 전략&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;누구를-위한-블로그인가요&#34;&gt;누구를 위한 블로그인가요&#xD;&#xA;&lt;/h2&gt;&lt;p&gt;유튜브를 시작하려는 초보 크리에이터부터, 이미 채널을 운영 중이지만 &lt;strong&gt;시간 부족&lt;/strong&gt;으로 고민하는 분들까지.&lt;/p&gt;&#xA;&lt;p&gt;TubeUp은 &amp;ldquo;혼자 영상 만들기&amp;quot;의 모든 단계를 AI로 자동화합니다.&#xA;이 블로그는 그 노하우를 무료로 풀어내는 공간입니다.&lt;/p&gt;&#xA;&lt;h2 id=&#34;tubeup-바로가기&#34;&gt;TubeUp 바로가기&#xD;&#xA;&lt;/h2&gt;&lt;p&gt;👉 &lt;a class=&#34;link&#34; href=&#34;https://tubeup.kr/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;&#xD;&#xA;    &gt;tubeup.kr&lt;/a&gt; 에서 직접 체험해보세요.&lt;/p&gt;&#xA;</description>
+        </item></channel>
+</rss>

@@ -1,77 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>알고리즘 on TubeUp 블로그</title><link>http://blog.tubeup.kr/tags/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/</link><description>Recent content in 알고리즘 on TubeUp 블로그</description><generator>Hugo -- gohugo.io</generator><language>ko-kr</language><lastBuildDate>Wed, 20 May 2026 19:09:45 +0900</lastBuildDate><atom:link href="http://blog.tubeup.kr/tags/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/index.xml" rel="self" type="application/rss+xml"/><item><title>유튜브 떡상 영상 찾는 5가지 방법 (2026 실전)</title><link>http://blog.tubeup.kr/posts/youtube-trending-discovery-2026/</link><pubDate>Wed, 20 May 2026 19:09:45 +0900</pubDate><guid>http://blog.tubeup.kr/posts/youtube-trending-discovery-2026/</guid><description>&lt;p&gt;유튜브 채널을 키우는 데 가장 중요한 건 단 하나입니다. &lt;strong&gt;&amp;ldquo;이 영상은 터질 것 같다&amp;quot;는 감을 데이터로 검증하는 것.&lt;/strong&gt; 감만 믿고 영상을 만들면 100개 중 99개는 묻힙니다. 반대로 떡상 가능성이 높은 주제만 골라 찍으면 같은 노력으로 10배 결과가 나옵니다.&lt;/p&gt;
-&lt;p&gt;이 글에서는 2026년 현재 실제로 통하는 떡상 영상 발굴법 5가지를 정리했습니다. 채널 규모와 상관없이 오늘부터 바로 적용할 수 있는 방법만 담았습니다.&lt;/p&gt;
-&lt;h2 id="1-조회수--구독자--떡상-지표"&gt;1. 조회수 ÷ 구독자 = 떡상 지표
-&lt;/h2&gt;&lt;p&gt;유튜브 검색에서 영상을 찾을 때 단순히 조회수 높은 순으로 보면 함정에 빠집니다. 1,000만 명 구독자 채널의 100만 조회는 그냥 평균이지만, 1만 명 구독자 채널의 100만 조회는 &lt;strong&gt;떡상&lt;/strong&gt;입니다.&lt;/p&gt;
-&lt;h3 id="실전-공식"&gt;실전 공식
-&lt;/h3&gt;&lt;pre tabindex="0"&gt;&lt;code&gt;떡상 지수 = 조회수 ÷ 구독자수
-&lt;/code&gt;&lt;/pre&gt;&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;1.0 미만&lt;/strong&gt;: 평타&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;3.0 이상&lt;/strong&gt;: 떡상 (알고리즘 추천 받았을 가능성)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;10.0 이상&lt;/strong&gt;: 메가 히트 (외부 유입 또는 바이럴)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;이 지표가 높은 영상의 &lt;strong&gt;주제, 썸네일, 제목 패턴&lt;/strong&gt;을 분석하면 어떤 콘텐츠가 알고리즘의 선택을 받는지 보입니다.&lt;/p&gt;
-&lt;h2 id="2-업로드-24시간-내-영상에-답이-있다"&gt;2. 업로드 24시간 내 영상에 답이 있다
-&lt;/h2&gt;&lt;p&gt;떡상 영상은 거의 항상 &lt;strong&gt;업로드 24~72시간&lt;/strong&gt; 사이에 폭발합니다. 이 시기에 알고리즘이 영상을 외부로 밀어주기 때문입니다.&lt;/p&gt;
-&lt;h3 id="어떻게-찾나"&gt;어떻게 찾나
-&lt;/h3&gt;&lt;ol&gt;
-&lt;li&gt;유튜브 검색 → 필터 → &lt;strong&gt;업로드 날짜: 오늘&lt;/strong&gt; 선택&lt;/li&gt;
-&lt;li&gt;정렬: &lt;strong&gt;조회수 순&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;24시간도 안 된 영상이 수십만 조회 = 떡상 진행 중&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;이 영상들의 패턴을 빠르게 학습하면, 같은 주제로 &lt;strong&gt;유사 영상을 다음 날 올려 후속 트래픽&lt;/strong&gt;을 받을 수 있습니다. &amp;ldquo;유사 콘텐츠 추천&amp;rdquo; 알고리즘에 묻혀가는 전략입니다.&lt;/p&gt;
-&lt;h2 id="3-키워드-도구의-진짜-활용법"&gt;3. 키워드 도구의 진짜 활용법
-&lt;/h2&gt;&lt;p&gt;vidIQ, TubeBuddy 같은 도구가 보여주는 &amp;ldquo;검색량&amp;quot;만 보면 정작 중요한 걸 놓칩니다. 진짜 봐야 할 건 다음 세 가지입니다.&lt;/p&gt;
-&lt;table&gt;
- &lt;thead&gt;
- &lt;tr&gt;
- &lt;th&gt;지표&lt;/th&gt;
- &lt;th&gt;의미&lt;/th&gt;
- &lt;/tr&gt;
- &lt;/thead&gt;
- &lt;tbody&gt;
- &lt;tr&gt;
- &lt;td&gt;&lt;strong&gt;검색량 vs 영상 수 비율&lt;/strong&gt;&lt;/td&gt;
- &lt;td&gt;검색은 많은데 영상이 적은 키워드 = 블루오션&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;&lt;strong&gt;상위 영상 평균 조회수&lt;/strong&gt;&lt;/td&gt;
- &lt;td&gt;높을수록 그 키워드의 천장이 높음&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;&lt;strong&gt;최근 업로드 빈도&lt;/strong&gt;&lt;/td&gt;
- &lt;td&gt;활발하면 트렌드, 정체면 식상&lt;/td&gt;
- &lt;/tr&gt;
- &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;특히 &lt;strong&gt;&amp;ldquo;검색량은 높은데 영상 수가 100개 미만&amp;rdquo;&lt;/strong&gt; 인 키워드를 찾으면 게임이 끝납니다. 다만 이런 키워드는 빠르게 사라지니 매일 체크해야 합니다.&lt;/p&gt;
-&lt;h2 id="4-해외-떡상을-한국으로-가져오기"&gt;4. 해외 떡상을 한국으로 가져오기
-&lt;/h2&gt;&lt;p&gt;미국, 일본, 인도에서 떡상한 콘텐츠는 &lt;strong&gt;2~4주 후 한국에서도 통할 가능성이 높습니다.&lt;/strong&gt; 글로벌 트렌드는 거의 시차를 두고 전파되기 때문입니다.&lt;/p&gt;
-&lt;h3 id="실전-방법"&gt;실전 방법
-&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;유튜브 트렌딩 페이지의 &lt;strong&gt;국가를 영어권/일본으로 변경&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;조회수 폭발 중인 콘텐츠 중 한국에 없는 주제 선별&lt;/li&gt;
-&lt;li&gt;한국 정서에 맞게 각색 (직역 X)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;음악, 게임, 챌린지, 라이프스타일 카테고리에서 특히 잘 통합니다. 한국 시장에 없는 글로벌 콘텐츠 = &lt;strong&gt;선점 효과&lt;/strong&gt;가 큽니다.&lt;/p&gt;
-&lt;h2 id="5-ai-자동-발굴-가장-빠른-길"&gt;5. AI 자동 발굴 (가장 빠른 길)
-&lt;/h2&gt;&lt;p&gt;위 4가지를 매일 수동으로 돌리면 하루 2~3시간이 사라집니다. 그래서 자동화가 답입니다.&lt;/p&gt;
-&lt;p&gt;&lt;a class="link" href="https://tubeup.kr/" target="_blank" rel="noopener"
- &gt;&lt;strong&gt;TubeUp&lt;/strong&gt;&lt;/a&gt;은 위 4가지 분석을 &lt;strong&gt;AI가 자동으로&lt;/strong&gt; 수행합니다.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;떡상 지수 자동 계산&lt;/li&gt;
-&lt;li&gt;24시간 내 급상승 영상 자동 큐레이션&lt;/li&gt;
-&lt;li&gt;키워드 도구 데이터 통합 분석&lt;/li&gt;
-&lt;li&gt;글로벌 트렌드 → 한국 시장 매핑&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;매일 아침 &lt;strong&gt;떡상 후보 영상 리스트&lt;/strong&gt;가 정리돼서 나오므로, 크리에이터는 &lt;strong&gt;&amp;ldquo;무엇을 찍을지&amp;rdquo; 고민할 시간에 &amp;ldquo;어떻게 찍을지&amp;rdquo;&lt;/strong&gt; 만 생각하면 됩니다.&lt;/p&gt;
-&lt;h2 id="마무리-데이터-없이는-채널-안-큰다"&gt;마무리: 데이터 없이는 채널 안 큰다
-&lt;/h2&gt;&lt;p&gt;10년 전에는 감과 운으로 채널이 컸습니다. 2026년에는 데이터를 보는 사람만 큽니다. 떡상은 우연이 아니라 &lt;strong&gt;패턴&lt;/strong&gt;이고, 그 패턴은 발견할 수 있습니다.&lt;/p&gt;
-&lt;p&gt;오늘부터 위 5가지 중 하나라도 적용해보세요. 일주일 안에 채널 통계가 달라집니다.&lt;/p&gt;
-&lt;hr&gt;
-
- &lt;blockquote&gt;
- &lt;p&gt;🎯 &lt;strong&gt;떡상 발굴 자동화가 궁금하신가요?&lt;/strong&gt;
-&lt;a class="link" href="https://tubeup.kr/" target="_blank" rel="noopener"
- &gt;TubeUp&lt;/a&gt;에서 무료로 시작해볼 수 있습니다.&lt;/p&gt;
-
- &lt;/blockquote&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>알고리즘 on TubeUp 블로그</title>
+        <link>http://blog.tubeup.kr/tags/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/</link>
+        <description>Recent content in 알고리즘 on TubeUp 블로그</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>ko-kr</language>
+        <lastBuildDate>Wed, 20 May 2026 19:09:45 +0900</lastBuildDate><atom:link href="http://blog.tubeup.kr/tags/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>유튜브 떡상 영상 찾는 5가지 방법 (2026 실전)</title>
+            <link>http://blog.tubeup.kr/posts/youtube-trending-discovery-2026/</link>
+            <pubDate>Wed, 20 May 2026 19:09:45 +0900</pubDate>
+            <guid>http://blog.tubeup.kr/posts/youtube-trending-discovery-2026/</guid>
+            <description>&lt;p&gt;유튜브 채널을 키우는 데 가장 중요한 건 단 하나입니다. &lt;strong&gt;&amp;ldquo;이 영상은 터질 것 같다&amp;quot;는 감을 데이터로 검증하는 것.&lt;/strong&gt; 감만 믿고 영상을 만들면 100개 중 99개는 묻힙니다. 반대로 떡상 가능성이 높은 주제만 골라 찍으면 같은 노력으로 10배 결과가 나옵니다.&lt;/p&gt;&#xA;&lt;p&gt;이 글에서는 2026년 현재 실제로 통하는 떡상 영상 발굴법 5가지를 정리했습니다. 채널 규모와 상관없이 오늘부터 바로 적용할 수 있는 방법만 담았습니다.&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-조회수--구독자--떡상-지표&#34;&gt;1. 조회수 ÷ 구독자 = 떡상 지표&#xD;&#xA;&lt;/h2&gt;&lt;p&gt;유튜브 검색에서 영상을 찾을 때 단순히 조회수 높은 순으로 보면 함정에 빠집니다. 1,000만 명 구독자 채널의 100만 조회는 그냥 평균이지만, 1만 명 구독자 채널의 100만 조회는 &lt;strong&gt;떡상&lt;/strong&gt;입니다.&lt;/p&gt;&#xA;&lt;h3 id=&#34;실전-공식&#34;&gt;실전 공식&#xD;&#xA;&lt;/h3&gt;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;떡상 지수 = 조회수 ÷ 구독자수&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;1.0 미만&lt;/strong&gt;: 평타&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;3.0 이상&lt;/strong&gt;: 떡상 (알고리즘 추천 받았을 가능성)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;10.0 이상&lt;/strong&gt;: 메가 히트 (외부 유입 또는 바이럴)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;이 지표가 높은 영상의 &lt;strong&gt;주제, 썸네일, 제목 패턴&lt;/strong&gt;을 분석하면 어떤 콘텐츠가 알고리즘의 선택을 받는지 보입니다.&lt;/p&gt;&#xA;&lt;h2 id=&#34;2-업로드-24시간-내-영상에-답이-있다&#34;&gt;2. 업로드 24시간 내 영상에 답이 있다&#xD;&#xA;&lt;/h2&gt;&lt;p&gt;떡상 영상은 거의 항상 &lt;strong&gt;업로드 24~72시간&lt;/strong&gt; 사이에 폭발합니다. 이 시기에 알고리즘이 영상을 외부로 밀어주기 때문입니다.&lt;/p&gt;&#xA;&lt;h3 id=&#34;어떻게-찾나&#34;&gt;어떻게 찾나&#xD;&#xA;&lt;/h3&gt;&lt;ol&gt;&#xA;&lt;li&gt;유튜브 검색 → 필터 → &lt;strong&gt;업로드 날짜: 오늘&lt;/strong&gt; 선택&lt;/li&gt;&#xA;&lt;li&gt;정렬: &lt;strong&gt;조회수 순&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;24시간도 안 된 영상이 수십만 조회 = 떡상 진행 중&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;이 영상들의 패턴을 빠르게 학습하면, 같은 주제로 &lt;strong&gt;유사 영상을 다음 날 올려 후속 트래픽&lt;/strong&gt;을 받을 수 있습니다. &amp;ldquo;유사 콘텐츠 추천&amp;rdquo; 알고리즘에 묻혀가는 전략입니다.&lt;/p&gt;&#xA;&lt;h2 id=&#34;3-키워드-도구의-진짜-활용법&#34;&gt;3. 키워드 도구의 진짜 활용법&#xD;&#xA;&lt;/h2&gt;&lt;p&gt;vidIQ, TubeBuddy 같은 도구가 보여주는 &amp;ldquo;검색량&amp;quot;만 보면 정작 중요한 걸 놓칩니다. 진짜 봐야 할 건 다음 세 가지입니다.&lt;/p&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;지표&lt;/th&gt;&#xA;          &lt;th&gt;의미&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;strong&gt;검색량 vs 영상 수 비율&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td&gt;검색은 많은데 영상이 적은 키워드 = 블루오션&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;strong&gt;상위 영상 평균 조회수&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td&gt;높을수록 그 키워드의 천장이 높음&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;strong&gt;최근 업로드 빈도&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td&gt;활발하면 트렌드, 정체면 식상&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;p&gt;특히 &lt;strong&gt;&amp;ldquo;검색량은 높은데 영상 수가 100개 미만&amp;rdquo;&lt;/strong&gt; 인 키워드를 찾으면 게임이 끝납니다. 다만 이런 키워드는 빠르게 사라지니 매일 체크해야 합니다.&lt;/p&gt;&#xA;&lt;h2 id=&#34;4-해외-떡상을-한국으로-가져오기&#34;&gt;4. 해외 떡상을 한국으로 가져오기&#xD;&#xA;&lt;/h2&gt;&lt;p&gt;미국, 일본, 인도에서 떡상한 콘텐츠는 &lt;strong&gt;2~4주 후 한국에서도 통할 가능성이 높습니다.&lt;/strong&gt; 글로벌 트렌드는 거의 시차를 두고 전파되기 때문입니다.&lt;/p&gt;&#xA;&lt;h3 id=&#34;실전-방법&#34;&gt;실전 방법&#xD;&#xA;&lt;/h3&gt;&lt;ul&gt;&#xA;&lt;li&gt;유튜브 트렌딩 페이지의 &lt;strong&gt;국가를 영어권/일본으로 변경&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;조회수 폭발 중인 콘텐츠 중 한국에 없는 주제 선별&lt;/li&gt;&#xA;&lt;li&gt;한국 정서에 맞게 각색 (직역 X)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;음악, 게임, 챌린지, 라이프스타일 카테고리에서 특히 잘 통합니다. 한국 시장에 없는 글로벌 콘텐츠 = &lt;strong&gt;선점 효과&lt;/strong&gt;가 큽니다.&lt;/p&gt;&#xA;&lt;h2 id=&#34;5-ai-자동-발굴-가장-빠른-길&#34;&gt;5. AI 자동 발굴 (가장 빠른 길)&#xD;&#xA;&lt;/h2&gt;&lt;p&gt;위 4가지를 매일 수동으로 돌리면 하루 2~3시간이 사라집니다. 그래서 자동화가 답입니다.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://tubeup.kr/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;&#xD;&#xA;    &gt;&lt;strong&gt;TubeUp&lt;/strong&gt;&lt;/a&gt;은 위 4가지 분석을 &lt;strong&gt;AI가 자동으로&lt;/strong&gt; 수행합니다.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;떡상 지수 자동 계산&lt;/li&gt;&#xA;&lt;li&gt;24시간 내 급상승 영상 자동 큐레이션&lt;/li&gt;&#xA;&lt;li&gt;키워드 도구 데이터 통합 분석&lt;/li&gt;&#xA;&lt;li&gt;글로벌 트렌드 → 한국 시장 매핑&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;매일 아침 &lt;strong&gt;떡상 후보 영상 리스트&lt;/strong&gt;가 정리돼서 나오므로, 크리에이터는 &lt;strong&gt;&amp;ldquo;무엇을 찍을지&amp;rdquo; 고민할 시간에 &amp;ldquo;어떻게 찍을지&amp;rdquo;&lt;/strong&gt; 만 생각하면 됩니다.&lt;/p&gt;&#xA;&lt;h2 id=&#34;마무리-데이터-없이는-채널-안-큰다&#34;&gt;마무리: 데이터 없이는 채널 안 큰다&#xD;&#xA;&lt;/h2&gt;&lt;p&gt;10년 전에는 감과 운으로 채널이 컸습니다. 2026년에는 데이터를 보는 사람만 큽니다. 떡상은 우연이 아니라 &lt;strong&gt;패턴&lt;/strong&gt;이고, 그 패턴은 발견할 수 있습니다.&lt;/p&gt;&#xA;&lt;p&gt;오늘부터 위 5가지 중 하나라도 적용해보세요. 일주일 안에 채널 통계가 달라집니다.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&#xD;&#xA;    &lt;blockquote&gt;&#xD;&#xA;        &lt;p&gt;🎯 &lt;strong&gt;떡상 발굴 자동화가 궁금하신가요?&lt;/strong&gt;&#xA;&lt;a class=&#34;link&#34; href=&#34;https://tubeup.kr/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;&#xD;&#xA;    &gt;TubeUp&lt;/a&gt;에서 무료로 시작해볼 수 있습니다.&lt;/p&gt;&#xA;&#xD;&#xA;    &lt;/blockquote&gt;&#xD;&#xA;</description>
+        </item></channel>
+</rss>
