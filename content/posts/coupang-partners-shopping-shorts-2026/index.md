@@ -2,7 +2,7 @@
 title: "2026 쿠팡파트너스 유튜브 쇼핑쇼츠 완전정복: AI 자동화로 월 수익 만드는 공식"
 slug: "coupang-partners-shopping-shorts-2026"
 date: 2026-05-21T10:00:00+09:00
-lastmod: 2026-05-21T10:00:00+09:00
+lastmod: 2026-05-21T20:30:00+09:00
 draft: false
 description: "2026년 쿠팡파트너스+유튜브 쇼핑쇼츠 월 수익 완전 가이드. 조회수 터지는 영상 구조 분석, AI 자동화 워크플로우 5단계, 수익 시뮬레이션까지. 편집 지식 없어도 월 50개 가능."
 image: "thumbnail.png"
